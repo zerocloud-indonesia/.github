@@ -19,7 +19,7 @@ ZeroCloud adalah penyedia hosting yang menawarkan kinerja tinggi, keamanan maksi
 ## Aktivitas di GitHub
 - **Proyek Open Source**
 - **Skrip DevOps**
-- **Panduan Teknis**
+- **Panduan Teknis untuk client**
 
 ## Tetap Terhubung
 Tetap update dengan informasi terbaru, pembaruan, dan dukungan dengan bergabung ke komunitas kami atau kunjungi situs web kami.
